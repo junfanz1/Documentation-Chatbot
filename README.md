@@ -165,6 +165,9 @@ This project uses advanced technologies such as LangChain, OpenAI, and Pinecone 
     streamlit run app.py
     ```
 
+![image](https://github.com/user-attachments/assets/57894307-798b-443c-9a2f-2ec851d032e0)
+
+
 <!-- TOC --><a name="13-code-explanation"></a>
 ## 13. Code Explanation
 
