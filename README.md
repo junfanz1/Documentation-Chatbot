@@ -43,7 +43,7 @@ A sophisticated chatbot application that helps users navigate and understand Lan
 <!-- TOC --><a name="1-project-purpose"></a>
 ## 1. Project Purpose
 
-This project aims to create a Documentation Helper Bot that utilizes Large Language Model (LLM) technology to help users quickly retrieve and understand document content. Users can ask questions, and the bot will retrieve relevant information from a specified document library and generate easy-to-understand answers.
+This project aims to create a Documentation Helper Bot that utilizes Large Language Model (LLM) technology to help users quickly retrieve and understand document content. Users can ask questions, and the bot will retrieve relevant information from a specified document library and generate easy-to-understand answers. Example inputs are LangChain documents, which can also be scalable to any kind of documents in your personal or working environment.
 
 <!-- TOC --><a name="2-input-and-output"></a>
 ## 2. Input and Output
