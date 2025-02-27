@@ -236,7 +236,7 @@ With the polish of Cursor:
 
 README generation prompt:
 
-```bash
+```
 According to this project and all the coding files you have, generate a Github Readme for me, including: (1) purpose of the project, (2) input and output, (3) LLM Technology Stack, (4) Challenges and Difficulties, (5) Future Business Impact and Further Improvements, (6) Target Audience and Benefits, (7) Advantages and Disadvantages, (8) Tradeoffs, (9) Highlight and Summary, (10) Future Enhancements, then for the functionality to run my project, provide (11) Prerequisites, (12) Setup, (13) Code Explanation for each file and each function, (14) How it works for the whole project and each class/function, (15) Any function you think is crucial for handling the project make it detailed elaboration, (16) Future Improvements, (17) Anything else you think is important to add in this readme. Finally, generate the readme in markdown format
 ```
 
