@@ -1,7 +1,7 @@
 
 
-<!-- TOC --><a name="documentation-chatot-"></a>
-# Documentation Chatot 🤖
+<!-- TOC --><a name="documentation-chatbot-"></a>
+# Documentation Chatbot 🤖
 
 A sophisticated chatbot application that helps users navigate and understand LangChain documentation through an interactive, user-friendly interface.
 
@@ -12,8 +12,6 @@ A sophisticated chatbot application that helps users navigate and understand Lan
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [Documentation Chatot 🤖](#documentation-chatot-)
-   * [Contents](#contents)
    * [1. Project Purpose](#1-project-purpose)
    * [2. Input and Output](#2-input-and-output)
    * [3. LLM Technology Stack](#3-llm-technology-stack)
